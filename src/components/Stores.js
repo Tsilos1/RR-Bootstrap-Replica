@@ -121,7 +121,7 @@ export default function Stores() {
                 <Col>
                 <CardGroup>
                         <Card>
-                        <Image style={{ height: "75px", width: "75px", border:"1px solid #E8E9EB" }} src="https://logos-world.net/wp-content/uploads/2021/11/Walgreens-Emblem.png" roundedCircle />
+                        <Image style={{ height: "75px", width: "75px", border:"1px solid #E8E9EB" }} src="https://icon2.cleanpng.com/20180428/pjq/kisspng-walgreens-gift-card-pharmacy-palo-alto-5ae5220ceb6b57.5551724615249659009643.jpg" roundedCircle />
                         <Card.Title>Walgreens</Card.Title>
                         <Card.Text>Delivery by 1:00pm</Card.Text>
                         </Card>
