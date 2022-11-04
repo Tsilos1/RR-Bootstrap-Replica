@@ -23,9 +23,6 @@ export default function TopSection() {
                     </Form>
                 </Card.ImgOverlay>
             </Card>
-
-
-
        </div>
        
     )
